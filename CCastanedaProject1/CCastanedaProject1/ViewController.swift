@@ -94,6 +94,7 @@ class ViewController: UIViewController {
         
     }
     
+    var runOnce = false;
     
     override func viewDidLayoutSubviews() {
         var count = 0;
